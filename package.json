@@ -1,7 +1,7 @@
 {
   "name": "sample-scaffolding-con-gulp",
   "version": "1.0.0",
-  "description": "Ejemplo de código del artículo: Scaffolding de forma sencilla usando Gulp",
+  "description": "Ejemplo de código del artículo: http://www.rubenbp.com/blog/scaffolding-de-forma-sencilla-usando-gulp",
   "author": "Rubén Bernárdez <rubenbp@gmail.com>",
   "license": "ISC",
   "private": true,
